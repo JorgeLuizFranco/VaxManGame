@@ -1,5 +1,6 @@
-#Pacman in Python with PyGame
-#https://github.com/hbokmann/Pacman
+#VaxMan in Python with PyGame
+#https://github.com/JorgeLuizFranco/VaxManGame
+#based on: https://github.com/hbokmann/Pacman
   
 from random import randint
 import pygame
